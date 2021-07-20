@@ -54,7 +54,6 @@ Thumbs.db
 /target
 /build
 /types
-/.idea
 
 # dotenv environment variables file
 .env
